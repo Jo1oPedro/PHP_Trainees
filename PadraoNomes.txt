@@ -1,0 +1,5 @@
+PHP recommendations are contained in PSR-1 (PHP Standard Recommendation 1) and PSR-12.
+According to PSR-1, class names should be in PascalCase, class constants should be in MACRO_CASE,
+and function and method names should be in camelCase.
+
+Referencia: https://en.wikipedia.org/wiki/Naming_convention_(programming)#:~:text=Variable%20names%20should%20not%20start,should%20be%20short%20yet%20meaningful.

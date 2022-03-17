@@ -1,0 +1,8 @@
+
+Encapsulamento: https://www.kadunew.com/blog/php/encapsulamento-e-visibilidade
+Metodos/Propriedades Estaticas: https://www.php.net/manual/pt_BR/language.oop5.static.php
+Herança & Polimorfismo: https://www.gigasystems.com.br/artigo/62/heranca-e-polimorfismo-em-php
+Interface: https://imasters.com.br/back-end/usando-interfaces-de-objetos-em-php
+Namespaces: http://www.diogomatheus.com.br/blog/php/entendendo-namespaces-no-php/
+PSR: https://www.php-fig.org/psr/
+PSR entendendo: https://www.treinaweb.com.br/blog/o-que-sao-as-psrs-do-php 
