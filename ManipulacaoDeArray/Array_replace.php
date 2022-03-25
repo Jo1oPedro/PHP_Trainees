@@ -7,7 +7,9 @@ $newNome = 'CascataSearchLove';
 print_r($nomes);
 echo "<br/>";
 
-array_unshift($nomes, $newNome); // adiciona um novo elemento no inicio do array $nomes
+$nomes = array_replace($nomes, [
+    '0' => $newNome,
+]); // retorna um array com a modificação
 
 print_r($nomes);
 echo "<br/>";
